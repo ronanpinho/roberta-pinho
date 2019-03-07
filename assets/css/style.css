@@ -1,10 +1,7 @@
 @charset "UTF-8";
 @import url(https://fonts.googleapis.com/css?family=Shadows+Into+Light|Source+Sans+Pro:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,500,700);
 
-@font-face {
-    font-family: butler;
-    src: url(../fonts/butler-bold.otf);
-}
 
 @keyframes bounce {
     from,
@@ -157,7 +154,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
     margin-top: 0;
     color: #232323 !important;
-    font-family: butler!important;
+    font-family: 'Roboto', sans-serif;
 }
 
 abbr[data-original-title], abbr[title] {
@@ -12342,10 +12339,10 @@ a.back-to-top i {
 @media (min-width: 1000px) {
     #hero-area .contents .head-title {
         font-size: 81px;
-        letter-spacing: -5px;
+        letter-spacing: -3px;
         text-transform: uppercase;
         font-weight: 700;
-        line-height: 68px;
+        line-height: 75px;
     }
 }
 
@@ -13869,11 +13866,11 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
     line-height: 40px !important
 }
 
-#problemas {
+#sintomas {
     margin-top: 0%;
 }
 
-.other-page #problemas {
+.other-page #sintomas {
     margin-top: 0%;
 }
 .navbar-brand-alt {
@@ -13939,41 +13936,41 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
     height: 60px;
 
 }
-#problemas .services-content h3 {
+#sintomas .services-content h3 {
     margin-top: 10px;
     font-size: 18px;
     line-height: 20px;
     min-height: 41px;
 }
-#problemas .services-content {
+#sintomas .services-content {
 
 }
-#problemas .services-content p {
+#sintomas .services-content p {
    min-height: 120px;
 }
 
-#problemas .icon img {
+#sintomas .icon img {
     width: 60px;
     height: 60px;
 }
 
 
-#recomendacao .services-content h3 {
+#tipos .services-content h3 {
     margin-top: 10px;
     font-size: 18px;
     line-height: 20px;
     min-height: 41px;
 }
 
-#recomendacao .services-content {
+#tipos .services-content {
 
 }
 
-#recomendacao .services-content p {
+#tipos .services-content p {
     min-height: 140px;
 }
 
-#recomendacao .icon img {
+#tipos .icon img {
     width: 60px;
     height: 60px;
 }
@@ -14142,11 +14139,11 @@ table caption {
 #planos {
     background: #dbdbdb!important;
 }
-.other-page #problemas {
+.other-page #sintomas {
     position: relative;
 }
 
-#problemas {
+#sintomas {
     position: relative;
 }
 
@@ -14174,4 +14171,100 @@ table caption {
         margin: 0 auto;
     }
 
+}
+
+
+
+
+
+
+
+
+
+.sintomas {
+    background:#a05a8f
+}
+
+.sintomas-item {
+    background: transparent;
+    text-align: center;
+    transition: all .3s ease-in-out 0;
+    -moz-transition: all .3s ease-in-out 0;
+    -webkit-transition: all .3s ease-in-out 0;
+    -o-transition: all .3s ease-in-out 0;
+    padding: 25px 0 25px 0;
+}
+
+.sintomas-item .sintomas-content {
+    text-align: justify;
+}
+.sintomas-item .sintomas-content h3 {
+    margin-top: 4px;
+    margin-bottom: 10px;
+    font-size: 20px;
+
+}
+
+.sintomas-item .sintomas-content h3 a {
+    font-size: 15px;
+    text-transform: capitalize;
+    color: #666
+}
+
+.sintomas-item .sintomas-content h3 a:hover {
+    color: #f5f5f5
+}
+
+.sintomas-item .sintomas-content p {
+    line-height: 22px
+}
+
+.sintomas {
+    padding: 60px 0 0;
+}
+
+#tratamento ul li {
+    list-style-type: decimal;
+    color: #666;
+}
+
+#depoimentos {
+    padding-right: 10px;
+    padding-left: 10px;
+    position: relative;
+}
+#depoimentos img {
+    width: 85px;
+    display: table;
+    margin: 0 auto;
+}
+#depoimentos div {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#depoimentos h6 {
+    font-size: 1.5em;
+    text-align: center;
+
+}
+
+#depoimentos h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#depoimentos p {
+    text-align: center;
+}
+
+#depoimentos p:before {
+    content: '';
+    background-image: url("../img/quote.png");
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    position: absolute;
+    top: -5px;
+    left: -4px;
 }

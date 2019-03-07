@@ -51,7 +51,11 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-135756362-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+
         gtag('js', new Date());
 
         gtag('config', 'UA-135756362-1');
@@ -59,34 +63,52 @@
 
     <!-- Facebook Pixel Code -->
     <script>
-        !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-            n.queue=[];t=b.createElement(e);t.async=!0;
-            t.src=v;s=b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t,s)}(window, document,'script',
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
             'https://connect.facebook.net/en_US/fbevents.js');
         fbq('init', '334647283826860');
         fbq('track', 'DepressaoTemCura');
     </script>
 
     <!-- Google Tag Manager -->
-    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-WDNQ32H');</script>
+    <script>(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-WDNQ32H');</script>
     <!-- End Google Tag Manager -->
-
-
 
 
 </head>
 <body>
 <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDNQ32H"
-                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WDNQ32H"
+            height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <noscript><img height="1" width="1" style="display:none"
@@ -120,18 +142,18 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#beneficios">
-                            Benefícios
+                        <a class="nav-link" href="#sintomas">
+                            Sintomas
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#depoimento">
-                            Depoimento
+                        <a class="nav-link" href="#tipos">
+                            Tipos
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#recomendacao">
-                            Recomendação
+                        <a class="nav-link" href="#tratamento">
+                            Tratamento
                         </a>
                     </li>
                     <li class="nav-item">
@@ -157,15 +179,15 @@
                 <a href="#inicio">inicio</a>
             </li>
             <li>
-                <a href="#beneficios">
-                    Benefícios
+                <a href="#sintomas">
+                    Sintomas
                 </a>
             </li>
             <li>
-                <a href="#depoimentos">Depoimento</a>
+                <a href="#tipos">Tipos</a>
             </li>
             <li>
-                <a href="#recomendacao">Recomendação</a>
+                <a href="#tratamento">Tratamento</a>
             </li>
             <li>
                 <a href="#estrutura">Estrutura</a>
@@ -182,31 +204,26 @@
         <section>
             <img class="image-desk" src="assets/img/imagem-topo.jpg" style="width: 100%">
             <img class="image-mobile" src="assets/img/imagem-topo-mobile.jpg" style="width: 100%">
-                        <div class="contents">
-                            <!--  <a href="/" class="lgo-center"><img
-                             src="assets/img/simbol.png"
-                             alt="Espaço Pilates Belém" title="Espaço Pilates Belém"></a>-->
-                            <h1 class="head-title">Sinta-se Renovado<br> Com o Pilates</h1>
-                            <p class="script-font">Alivie dores, controle seu peso e eleve sua auto-estima em 2
-                                semanas</p>
-                            <div class="header-button">
-                                <p class="arrow-b">Saiba Mais</p>
-                                <a href="#beneficios"><img class="arrow bounce" src="assets/img/arrow.png"></a>
-                            </div>
+            <div class="contents">
+                <h1 class="head-title">Vocẽ não está só, <br>existe uma saída.</h1>
+                <p class="script-font">Dê um basta nesse sofrimento</p>
+                <div class="header-button">
+                    <p class="arrow-b">Saiba Mais</p>
+                    <a href="#beneficios"><img class="arrow bounce" src="assets/img/arrow.png"></a>
+                </div>
             </div>
         </section>
         <section>
-            <img class="image-desk" src="assets/img/imagem-topo.jpg" style="width: 100%">
-            <img class="image-mobile" src="assets/img/imagem-topo-mobile.jpg" style="width: 100%">
-                        <div class="contents">
-                            <h1 class="head-title">Sinta-se Renovado<br> Com o Pilates</h1>
-                            <p class="script-font">Alivie dores, controle seu peso e eleve sua auto-estima em 2
-                                semanas</p>
-                            <div class="header-button">
-                                <p class="arrow-b">Saiba Mais</p>
-                                <a href="#beneficios"><img class="arrow bounce" src="assets/img/arrow.png"></a>
-                            </div>
-                        </div>
+            <img class="image-desk" src="assets/img/imagem-topo-2.jpg" style="width: 100%">
+            <img class="image-mobile" src="assets/img/imagem-topo-mobile-2.jpg" style="width: 100%">
+            <div class="contents">
+                <h1 class="head-title">Uma vida nova<br> te espera</h1>
+                <p class="script-font">Acabe com esse sofrimento</p>
+                <div class="header-button">
+                    <p class="arrow-b">Saiba Mais</p>
+                    <a href="#beneficios"><img class="arrow bounce" src="assets/img/arrow.png"></a>
+                </div>
+            </div>
         </section>
     </div>
     <!-- Hero Area End -->
@@ -215,62 +232,60 @@
 <!-- Header Area wrapper End -->
 
 <!-- Services Section Start -->
-<section id="problemas" class="services section-padding" style="background: #DEDEDE">
-    <h2 class="section-title">Benefícios Surpreendentes do Pilates
+<section id="sintomas" class="sintomas section-padding" style="background: #DEDEDE">
+    <h2 class="section-title">Será que eu tenho depressão?
     </h2>
+    <p style="text-align: center">Veja abaixo os sintomas e os os tipos de depressão mais comuns.<br> Identifique e veja
+        se acontece com você.</p>
     <div class="container" style="text-align: justify; padding-bottom: 30px;">
     </div>
     <div class="container">
         <div class="row">
-            <!-- Services item -->
-            <div class="col-md-6 col-lg-3 col-xs-12" style="margin-bottom: 20px;">
-                <div class="services-item">
-                    <div class="icon">
-                        <img src="assets/img/b01.svg" alt="Beneficio 1">
+            <div class="col-md-4 col-lg-4 col-xs-12">
+                <!-- Services item -->
+                <div class="col-md-12 col-lg-12 col-xs-12" style="margin-bottom: 20px;">
+                    <div class="sintomas-item">
+                        <div class="sintomas-content">
+                            <h3>Desejo de morrer e dores físicas</h3>
+                            <p>A pessoa sente vontade de morrer ou planejar uma forma de tentar suicídio. Dores de
+                                barriga e no corpo, azia, entre outras podem aparecer.</p>
+                        </div>
                     </div>
-                    <div class="services-content">
-                        <h3>Combate o Stress</h3>
-                        <p>Lide melhor com situações de estresse, ansiedade e nervosismo, exercitando o
-                            auto-controle.</p>
+                </div>
+                <!-- Services item -->
+                <div class="col-md-12 col-lg-12 col-xs-12" style="margin-bottom: 20px;">
+                    <div class="sintomas-item">
+                        <div class="sintomas-content">
+                            <h3>Tristeza profunda e pessimismo</h3>
+                            <p>Normalmente faz interpretação distorcida e negativa da realidade: tudo é visto sob a
+                                ótica depressiva, um tom "cinzento" para si mesmo.</p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <!-- Services item -->
-            <div class="col-md-6 col-lg-3 col-xs-12" style="margin-bottom: 20px;">
-                <div class="services-item">
-                    <div class="icon">
-                        <img src="assets/img/b02.svg" alt="Beneficio 2">
-                    </div>
-                    <div class="services-content">
-                        <h3>Fortalece e Tonifica a Musculatura</h3>
-                        <p>Trabalhe a musculatura do corpo todo, inclusive os músculos mais profundos.</p>
+            <div class="col-md-4 col-lg-4 col-xs-12">
+                <img src="assets/img/mulher-triste.png" style="width: 100%; display: table; position: relative">
+            </div>
+            <div class="col-md-4 col-lg-4 col-xs-12">
+                <!-- Services item -->
+                <div class="col-md-12 col-lg-12 col-xs-12" style="margin-bottom: 20px;">
+                    <div class="sintomas-item">
+                        <div class="sintomas-content">
+                            <h3>Insônia ou despertar precoce</h3>
+                            <p>Tem dificuldade de encontrar o sono, se acorda várias vezes ou geralmente acorda algumas
+                                horas do horário habitual.</p>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <!-- Services item -->
-            <div class="col-md-6 col-lg-3 col-xs-12" style="margin-bottom: 20px;">
-                <div class="services-item">
-                    <div class="icon">
-                        <img src="assets/img/b03.svg" alt="Beneficio 3">
-                    </div>
-                    <div class="services-content">
-                        <h3>Ajuda no emagrecimento</h3>
-                        <p>1 hora de pilates pode queimar de 240 a 450 calorias, além de ajudar no equilíbrio e controle
-                            de peso, reduzindo o efeito sanfona</p>
-                    </div>
-                </div>
-            </div>
 
-            <div class="col-md-6 col-lg-3 col-xs-12" style="margin-bottom: 20px;">
-                <div class="services-item">
-                    <div class="icon">
-                        <img src="assets/img/b04.svg" alt="Beneficio 4">
-                    </div>
-                    <div class="services-content">
-                        <h3>Ameniza dores</h3>
-                        <p>Recomendado por profissionais para tratamento de dores, principalmente nas costas,
-                            articulações, e músculos.
-                        </p>
+                <div class="col-md-12 col-lg-12 col-xs-12" style="margin-bottom: 20px;">
+                    <div class="sintomas-item">
+                        <div class="sintomas-content">
+                            <h3>Sentimentos de Medo, insegurança e angústia</h3>
+                            <p>Sente-se desamparada, sozinha, parece que ninguém liga pra você, já não se sente mais
+                                confiante.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -280,20 +295,21 @@
 
 
 <!-- Services Section Start -->
-<section id="recomendacao" class="services section-padding">
-    <h2 class="section-title" style="color: #FFF!important;margin-bottom: 40px">Recomendado para:</h2>
-
+<section id="tipos" class="services section-padding">
+    <h2 class="section-title" style="color: #FFF!important;margin-bottom: 40px">Alguns Tipos de Depressão</h2>
     <div class="container">
         <div class="row">
             <!-- Services item -->
             <div class="col-md-4 col-lg-4 col-xs-12" style="margin-bottom: 20px;">
                 <div class="services-item">
                     <div class="icon">
-                        <img src="assets/img/girl.svg" alt="Beneficio 1">
+                        <img src="assets/img/d-pos-parto.svg" alt="Tipo 1">
                     </div>
                     <div class="services-content">
-                        <h3>Mulheres</h3>
-                        <p>Ajuda a tonificar os músculos e no controle de peso em poucas semanas</p>
+                        <h3>Depressão pós parto</h3>
+                        <p>Os sintomas são tristeza e desesperança. As novas mães podem ter alterações de humor e crises
+                            de choro após o parto, por conta das alterações hormonais. Algumas mães podem ter esses
+                            sintomas intensificados, dando origem a depressão.</p>
                     </div>
                 </div>
             </div>
@@ -301,11 +317,13 @@
             <div class="col-md-4 col-lg-4 col-xs-12" style="margin-bottom: 20px;">
                 <div class="services-item">
                     <div class="icon">
-                        <img src="assets/img/standing-up-man-.svg" alt="Beneficio 1">
+                        <img src="assets/img/d-bipolar.svg" alt="Tipo 2">
                     </div>
                     <div class="services-content">
-                        <h3>Homens</h3>
-                        <p>Melhora o desempenho sexual, previne lesões, e reduz o stress.</p>
+                        <h3>Depressão bipolar</h3>
+                        <p>Um subtipo da depressão. Apresenta a “mania”, que se apresenta em humor exaltado, aceleração
+                            do pensamento, agitações, excesso de energia, euforia, irritabilidade, mudanças bruscas de
+                            humor e alterações no sono.</p>
                     </div>
                 </div>
             </div>
@@ -313,41 +331,44 @@
             <div class="col-md-4 col-lg-4 col-xs-12" style="margin-bottom: 20px;">
                 <div class="services-item">
                     <div class="icon">
-                        <img src="assets/img/pregnant-woman.svg" alt="Beneficio 1">
+                        <img src="assets/img/d-transtorno.svg" alt="Tipo 3">
                     </div>
                     <div class="services-content">
-                        <h3>Gestantes</h3>
-                        <p>Auxilia na melhor respiração da mamãe e oxigenação do bebê, reduz as dores durante a
-                            gravidez.
+                        <h3>Transtorno depressivo maior</h3>
+                        <p>Se a pessoa tem quadros depressivos que se repetem com frequência por mais de 6 meses,
+                            pode-se considerar que está passando por um transtorno depressivo maior.
                         </p>
                     </div>
                 </div>
             </div>
-
-            <div class="col-md-4 col-lg-4 col-xs-12" style="margin-bottom: 20px;">
-                <div class="services-item">
-                    <div class="icon">
-                        <img src="assets/img/soccer-player.svg" alt="Beneficio 1">
-                    </div>
-                    <div class="services-content">
-                        <h3>Atletas</h3>
-                        <p>Aumenta a capacidade respiratória, reduz o risco de lesões, esgotamento e fadiga, aumentando
-                            a performance.</p>
-                    </div>
+        </div>
+    </div>
+</section>
+<!-- sobre Section Start -->
+<section id="tratamento" class="section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="profile-wrapper">
+                    <h3>Estou Aqui Pra Te Ajudar</h3>
+                    <p>A terapia com um psicólogo pode te ajudar a entender com profundidade os fatores do dia a dia que
+                        desencadeiam a depressão, reduzir seus sintomas e trabalhar os eventos que o levaram a
+                        desenvolver este problema.</p>
                 </div>
             </div>
-
-            <div class="col-md-4 col-lg-4 col-xs-12" style="margin-bottom: 20px;">
-                <div class="services-item">
-                    <div class="icon">
-                        <img src="assets/img/old-man.svg" alt="Beneficio 1">
-                    </div>
-                    <div class="services-content">
-                        <h3>Idosos</h3>
-                        <p>Ajuda na redução e controle do diabetes, artrite e doenças cardiovasculares. Melhora a
-                            respiração, alivia dores intensas e flexibilidade.
-                        </p>
-                    </div>
+            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                <div class="profile-wrapper">
+                    <h3>Benefícios do tratamento:</h3>
+                    <ul>
+                        <li>Pode ajudar a reduzir a irritabilidade e recaídas em sua vida;</li>
+                        <li>Pode dar-lhe uma nova perspectiva sobre as causas da depressão e como combatê-las;</li>
+                        <li>Evita o agravamento e desejos de suicídio;</li>
+                        <li>Você pode usá-la para aprender a lidar com os efeitos colaterais da medicação para
+                            depressão;
+                        </li>
+                        <li>Você aprende maneiras de falar com outras pessoas sobre sua condição;</li>
+                        <li>Ela ajuda a capturar os primeiros sinais se a sua depressão estiver se agravando.</li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -361,65 +382,98 @@
             <div class="col-md-3 col-sm-6 work-counter-widget text-center">
                 <div class="counter">
                     <div class="icon"><img
-                            src="assets/img/m1.svg"
+                            src="assets/img/vidas.svg"
                             style="width:60px; height:60px;" alt="Entrega"></div>
-                    <div class="counterUp mais">400</div>
-                    <p>Vidas transformadas</p>
+                    <div class="counterUp mais">500</div>
+                    <p>Vidas cuidadas</p>
                 </div>
             </div>
 
             <div class="col-md-3 col-sm-6 work-counter-widget text-center">
                 <div class="counter">
                     <div class="icon"><img
-                            src="assets/img/m2.svg"
+                            src="assets/img/horas-c.svg"
                             style="width:60px; height:60px;" alt="Experiência"></div>
                     <div class="counterUp mais">5000</div>
-                    <p>horas aula</p>
+                    <p>horas de consultas</p>
                 </div>
             </div>
 
             <div class="col-md-3 col-sm-6 work-counter-widget text-center">
                 <div class="counter">
                     <div class="icon"><img class="r03"
-                                           src="assets/img/m3.svg"
+                                           src="assets/img/referencia.svg"
                                            style="width:60px; height:60px;" alt="Número um em São Luis"></div>
-                    <div class="counterUp">3</div>
-                    <p>Fisioterapeutas</p>
+                    <div class="counterUp">Referência</div>
+                    <p>no Pará</p>
                 </div>
             </div>
 
             <div class="col-md-3 col-sm-6 work-counter-widget text-center">
                 <div class="counter">
                     <div class="icon"><img
-                            src="assets/img/m4.svg"
+                            src="assets/img/8anos.svg"
                             style="width: 60px; height: 60px" alt="Referência em qualidade"></div>
-                    <div class="counterUp mais">5</div>
+                    <div class="counterUp mais">8</div>
                     <p>Anos de experiência</p>
                 </div>
             </div>
         </div>
     </div>
 </section>
-
+<section id="depoimentos" class="section-padding">
+    <h2>Veja quem Experimentou a Terapia</h2>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 col-xs-12">
+                <img src="assets/img/stars.png" style="text-align: center;">
+                <p>Existe sim uma saída para uma vida muitíssimo melhor. Agora estou segura e atravessando um novo
+                    patamar na minha vida, graças a minha doutora Roberta Pinho.</p>
+                <h6>Ana L.</h6>
+            </div>
+            <div class="col-md-4 col-xs-12">
+                <img src="assets/img/stars.png" style="text-align: center;">
+                <p>Segui seus conselhos e me foquei na melhora, e deu certo! Seu trabalho e muito especial. Obrigado por
+                    cuidar de mim. Hoje me sinto muito mais confiante.</p>
+                <h6>Joao S.</h6>
+            </div>
+            <div class="col-md-4 col-xs-12">
+                <img src="assets/img/stars.png" style="text-align: center;">
+                <p>Já passei por alguns outros profissionais de saúde, mas o atendimento e acolhimento da Roberta foi
+                    sem igual. A partir daí os desejos ruins e de morte foram desaparecendo. </p>
+                <h6>Ruth P.</h6>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- sobre Section Start -->
 <section id="depoimento" class="section-padding">
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="img-thumb">
-                    <img src="assets/img/Depoimento.png" style="width:100%;max-width: 85%" alt="Depoimento">
+                    <img src="assets/img/Roberta-Pinho.png" style="width:100%;max-width: 85%" alt="Roberta Pinho">
                 </div>
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
                 <div class="profile-wrapper">
-                    <h3>Oi, vestibulando, sou Nicinha Câmara</h3>
-                    <p>Nicinha do Socorro Câmara de Souza, brasileira, nascida e criada em Belém do Pará, é professora
-                        por vocação e paixão. Iniciou sua carreira profissional como professora de Redação no ano de
-                        1995, já preparando para a escrita centenas de jovens que tinham o sonho de passar no
-                        vestibular.</p>
-                    <p>No ano seguinte, a fim de oferecer um atendimento mais individualizado aos estudantes que
-                        disputavam uma vaga na Universidade, abriu o seu curso de Redação, que é referência desde então
-                        nesse segmento.</p>
+                    <h3>Conheça sua Psicóloga</h3>
+                    <p>Roberta Pinho, brasileira, pós graduada, é psicóloga por vocação e paixão. Teve uma
+                        experiência internacional na Universidade do Porto onde aperfeiçoou seus estudos em sua área. Já
+                        ajudou há centenas de pessoas que a buscam qualidade de vida e saúde mental.</p>
+
+                        <p>Em 2012, sua carreira começou no hospital Ophir Loyola, no cuidado e acompanhamento a pacientes
+                        e seus familiares em fase final de vida. posteriormente passando por outras instituições. A fim
+                        de oferecer um atendimento mais individualizado aos seus pacientes que buscavam uma vida melhor,
+                            decidiu abrir seu próprio consultório, que é referência desde então no segmento.</p>
+
+                        <p>Em 2017, com o objetivo de aprofundar seus conhecimentos na área clínica, iniciou sua pós
+                        graduação em Arteterapia. Já participou de entrevistas na TV e também tem artigos publicados em
+                            revistas de circulação nacional.</p>
+
+                        <p>Hoje, vive com intensidade seu propósito, e continua sua missão de impactar o máximo de pessoas
+                        possível, contribuindo para sua saúde mental, mostrando que é possível ter mais qualidade de
+                        vida, equilíbrio e viver melhor, sendo feliz consigo e com amigos e familiares.</p>
                 </div>
             </div>
         </div>
@@ -427,8 +481,7 @@
 </section>
 <section id="noticias" class="section-padding">
     <div class="container">
-        <h2 style="text-align: center; margin-bottom: 80px">Confira uma parte da reportagem publicada<br> no Diário do
-            Pará</h2>
+        <h2 style="text-align: center; margin-bottom: 80px">Confira uma parte da matéria publicada na Revista Cidade Nova</h2>
         <div class="row">
             <div class="col-md-6">
                 <h2 style="margin-bottom: 30px;">Pará tem ao menos cinco alunos nota mil no Enem</h2>
@@ -449,8 +502,12 @@
 
             </div>
             <div class="col-md-6">
-                <img class="dol" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARkAAACAAQMAAAAFwI9rAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABtJREFUeNrtwTEBAAAAwqD1T20KP6AAAAAA4GcSgAAB+aCliQAAAABJRU5ErkJggg==" style="max-width: 100px; margin-bottom: 20px" alt="Dol">
-                <img class="depoimento" src="REFUeNrtwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAZwPFRAABXG3/UwAAAABJRU5ErkJggg==" alt="Pessoa Depoimento">
+                <img class="dol"
+                     src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARkAAACAAQMAAAAFwI9rAAAAA1BMVEX///+nxBvIAAAAAXRSTlMAQObYZgAAABtJREFUeNrtwTEBAAAAwqD1T20KP6AAAAAA4GcSgAAB+aCliQAAAABJRU5ErkJggg=="
+                     style="max-width: 100px; margin-bottom: 20px" alt="Dol">
+                <img class="depoimento"
+                     src="REFUeNrtwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAZwPFRAABXG3/UwAAAABJRU5ErkJggg=="
+                     alt="Pessoa Depoimento">
 
             </div>
         </div>
