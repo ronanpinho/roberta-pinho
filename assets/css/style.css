@@ -11767,7 +11767,7 @@ a.back-to-top i {
     height: 40px;
     line-height: 40px;
     color: #FFF;
-    background: #ed9d04;
+    background: #a05a8f;
     border-radius: 2px;
     text-align: center;
     transition: all .2s ease-in-out;
@@ -12022,11 +12022,11 @@ a.back-to-top i {
 
 .top-nav-collapse .navbar-nav .nav-link:hover {
     cursor: pointer;
-    color: #ed9d04 !important
+    color: #a05a8f !important
 }
 
 .top-nav-collapse .navbar-nav li.active a.nav-link {
-    color: #ed9d04 !important
+    color: #a05a8f !important
 }
 
 .indigo {
@@ -12065,7 +12065,7 @@ a.back-to-top i {
 }
 
 .navbar-expand-lg .navbar-nav li .active > a, .navbar-expand-lg .navbar-nav li a:focus, .navbar-expand-lg .navbar-nav li a:hover {
-    color: #ed9d04;
+    color: #a05a8f;
     outline: 0
 }
 
@@ -12074,7 +12074,7 @@ a.back-to-top i {
 }
 
 .navbar li.active a.nav-link {
-    color: #ed9d04
+    color: #a05a8f
 }
 
 .dropdown-toggle::after {
@@ -12494,7 +12494,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .services {
-    background:#ed9d04
+    background:#a05a8f
 }
 
 .services-item {
@@ -12592,7 +12592,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .footer-right-contact .contact-icon {
-    background: #ed9d04;
+    background: #a05a8f;
     color: #FFF;
     border-radius: 50%;
     font-size: 20px;
@@ -12652,8 +12652,8 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .footer-area .footer-text p a {
-    color: #ed9d04;
-    border-bottom: 1px dotted #ed9d04
+    color: #a05a8f;
+    border-bottom: 1px dotted #a05a8f
 }
 
 .footer-area .footer-text .nav-inline .nav-link {
@@ -13827,7 +13827,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 .btn-alt:hover {
-    background: #ed9d04
+    background: #a05a8f
 }
 
 @media (max-width: 768px) {
@@ -14093,7 +14093,7 @@ table caption {
 .footer-right-area .profile-wrapper .d-nome {
     text-align: right;
     font-size: 18px;
-    color: #ed9d04 !important;
+    color: #a05a8f !important;
     margin-bottom: 0;
 }
 
@@ -14127,16 +14127,16 @@ table caption {
 }
 
 .controls .active, .slicknav_btn {
-    border-color: #ed9d04;
+    border-color: #a05a8f;
 }
 
 
 .slicknav_menu .slicknav_icon-bar {
-    background: #ed9d04;
+    background: #a05a8f;
 }
 
 .slicknav_nav .active, .slicknav_nav a:focus, .slicknav_nav a:hover {
-    color: #ed9d04;
+    color: #a05a8f;
 }
 
 #planos {

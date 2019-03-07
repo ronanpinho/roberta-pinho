@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura.html" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/animate.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
@@ -90,8 +91,7 @@
       <change beforePath="$PROJECT_DIR$/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/video.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/waypoints.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/wow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/video/video-mobile.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/video/video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura.html" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -105,16 +105,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="13933" column="24" lean-forward="true" selection-start-line="13933" selection-start-column="24" selection-end-line="13933" selection-end-column="24" />
+            <state relative-caret-position="594">
+              <caret line="11769" column="23" selection-start-line="11769" selection-start-column="23" selection-end-line="11769" selection-end-column="23" />
+              <caret line="12024" column="18" selection-start-line="12024" selection-start-column="18" selection-end-line="12024" selection-end-column="18" />
+              <caret line="12028" column="18" selection-start-line="12028" selection-start-column="18" selection-end-line="12028" selection-end-column="18" />
+              <caret line="12067" column="18" selection-start-line="12067" selection-start-column="18" selection-end-line="12067" selection-end-column="18" />
+              <caret line="12076" column="18" selection-start-line="12076" selection-start-column="18" selection-end-line="12076" selection-end-column="18" />
+              <caret line="12496" column="22" selection-start-line="12496" selection-start-column="22" selection-end-line="12496" selection-end-column="22" />
+              <caret line="12594" column="23" selection-start-line="12594" selection-start-column="23" selection-end-line="12594" selection-end-column="23" />
+              <caret line="12654" column="18" selection-start-line="12654" selection-start-column="18" selection-end-line="12654" selection-end-column="18" />
+              <caret line="12655" column="37" selection-start-line="12655" selection-start-column="37" selection-end-line="12655" selection-end-column="37" />
+              <caret line="13829" column="23" selection-start-line="13829" selection-start-column="23" selection-end-line="13829" selection-end-column="23" />
+              <caret line="14095" column="18" selection-start-line="14095" selection-start-column="18" selection-end-line="14095" selection-end-column="18" />
+              <caret line="14129" column="25" selection-start-line="14129" selection-start-column="25" selection-end-line="14129" selection-end-column="25" />
+              <caret line="14134" column="23" selection-start-line="14134" selection-start-column="23" selection-end-line="14134" selection-end-column="23" />
+              <caret line="14138" column="18" selection-start-line="14138" selection-start-column="18" selection-end-line="14138" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/depressao-tem-cura.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="412">
@@ -224,7 +237,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>reche</find>
       <find>chef</find>
       <find>depoi</find>
       <find>delivery</find>
@@ -254,6 +266,7 @@
       <find>#beneficios</find>
       <find>#hero-area .contents</find>
       <find>.header-button</find>
+      <find>#ed9d04</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -286,9 +299,9 @@
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/vida-melhor.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -315,6 +328,12 @@
               <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
               <item name="roberta-pinho" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roberta-pinho" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
@@ -439,17 +458,18 @@
       <workItem from="1551441017549" duration="31412000" />
       <workItem from="1551615031226" duration="1070000" />
       <workItem from="1551903986179" duration="1578000" />
-      <workItem from="1551955759559" duration="7732000" />
+      <workItem from="1551955759559" duration="8332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190995000" />
+    <option name="totallyTimeSpent" value="191595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.14383562" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.14383562" />
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -461,7 +481,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32998884" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2374582" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.2374582" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -711,13 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="13933" column="24" lean-forward="true" selection-start-line="13933" selection-start-column="24" selection-end-line="13933" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ansiedade-tem-cura.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -777,6 +790,26 @@
             <element signature="n#src#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="11769" column="23" selection-start-line="11769" selection-start-column="23" selection-end-line="11769" selection-end-column="23" />
+          <caret line="12024" column="18" selection-start-line="12024" selection-start-column="18" selection-end-line="12024" selection-end-column="18" />
+          <caret line="12028" column="18" selection-start-line="12028" selection-start-column="18" selection-end-line="12028" selection-end-column="18" />
+          <caret line="12067" column="18" selection-start-line="12067" selection-start-column="18" selection-end-line="12067" selection-end-column="18" />
+          <caret line="12076" column="18" selection-start-line="12076" selection-start-column="18" selection-end-line="12076" selection-end-column="18" />
+          <caret line="12496" column="22" selection-start-line="12496" selection-start-column="22" selection-end-line="12496" selection-end-column="22" />
+          <caret line="12594" column="23" selection-start-line="12594" selection-start-column="23" selection-end-line="12594" selection-end-column="23" />
+          <caret line="12654" column="18" selection-start-line="12654" selection-start-column="18" selection-end-line="12654" selection-end-column="18" />
+          <caret line="12655" column="37" selection-start-line="12655" selection-start-column="37" selection-end-line="12655" selection-end-column="37" />
+          <caret line="13829" column="23" selection-start-line="13829" selection-start-column="23" selection-end-line="13829" selection-end-column="23" />
+          <caret line="14095" column="18" selection-start-line="14095" selection-start-column="18" selection-end-line="14095" selection-end-column="18" />
+          <caret line="14129" column="25" selection-start-line="14129" selection-start-column="25" selection-end-line="14129" selection-end-column="25" />
+          <caret line="14134" column="23" selection-start-line="14134" selection-start-column="23" selection-end-line="14134" selection-end-column="23" />
+          <caret line="14138" column="18" selection-start-line="14138" selection-start-column="18" selection-end-line="14138" selection-end-column="18" />
         </state>
       </provider>
     </entry>
