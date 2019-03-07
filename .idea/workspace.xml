@@ -90,11 +90,9 @@
       <change beforePath="$PROJECT_DIR$/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/video.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/waypoints.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/wow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/video/video-mobile.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/assets/video/video-mobile.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/video/video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/assets/video/video.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/video/video-mobile.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/video/video.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vida-melhor.html" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -313,6 +311,17 @@
               <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
               <item name="roberta-pinho" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roberta-pinho" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roberta-pinho" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -328,16 +337,16 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\laragon\www\pilates\assets\img" />
+      <recent name="F:\laragon\www\site-professora-nicinha\assets\img" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\laragon\www\roberta-pinho\assets\img" />
       <recent name="F:\laragon\www\pilates\assets\img" />
       <recent name="F:\laragon\www\pilates\assets\video" />
       <recent name="F:\laragon\www\pilates\assets\fonts" />
       <recent name="F:\laragon\www\mister-galeto\assets\img" />
-      <recent name="F:\laragon\www\mister-galeto\assets\video" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\laragon\www\pilates\assets\img" />
-      <recent name="F:\laragon\www\site-professora-nicinha\assets\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -430,16 +439,15 @@
       <workItem from="1551441017549" duration="31412000" />
       <workItem from="1551615031226" duration="1070000" />
       <workItem from="1551903986179" duration="1578000" />
-      <workItem from="1551955759559" duration="7060000" />
+      <workItem from="1551955759559" duration="7732000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="190323000" />
+    <option name="totallyTimeSpent" value="190995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.14383562" />
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
