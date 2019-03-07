@@ -13940,16 +13940,9 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
     height: 60px;
 }
 #depoimento .profile-wrapper p {
-    font-size: 18px;
+    font-size: 15px;
     color: #232323;
     margin-bottom: 20px;
-}
-
-#depoimento .profile-wrapper .d-nome {
-    text-align: right;
-    font-size: 18px;
-    color: #ed9d04 !important;
-    margin-bottom: 0;
 }
 
 #depoimento {
@@ -13967,10 +13960,6 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
     left: 0px;
 }
 
-#depoimento .profile-wrapper {
-    top: 10%;
-    position: relative;
-}
 
 table caption {
     padding: .5em 0;
