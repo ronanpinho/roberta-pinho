@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/8anos.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/Roberta-Pinho.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/d-bipolar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/d-pos-parto.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/d-transtorno.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/horas-c.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/imagem-topo-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/imagem-topo-mobile-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/mulher-triste.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/vidas.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -47,16 +37,22 @@
       <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/line-icons/Simple-Line-Icons.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/fonts/simple-line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/simple-line-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/8anos.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/8anos.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/Depoimento.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Depoimento.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/Facebook-og.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Facebook-og.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Roberta-Pinho.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Roberta-Pinho.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/arrow.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/autoridade.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/autoridade.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/b01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b01.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/b02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b02.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/b03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b03.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/b04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/b04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/d-bipolar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/d-bipolar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/d-pos-parto.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/d-pos-parto.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/d-transtorno.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/d-transtorno.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/girl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/girl.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/horas-c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/horas-c.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/icones/entrega.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/entrega.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/icones/ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/ex.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/icones/i01.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/i01.png" afterDir="false" />
@@ -64,7 +60,8 @@
       <change beforePath="$PROJECT_DIR$/assets/img/icones/i03.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/i03.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/icones/numero-um.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/numero-um.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/icones/referencia-qualidade.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/icones/referencia-qualidade.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/imagem-inicio.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/imagem-topo-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/imagem-topo-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/imagem-topo-mobile-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/imagem-topo-mobile-2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/imagem-topo-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/imagem-topo-mobile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/imagem-topo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/imagem-topo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/kids-couple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/kids-couple.svg" afterDir="false" />
@@ -75,13 +72,16 @@
       <change beforePath="$PROJECT_DIR$/assets/img/m3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/m3.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/m4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/m4.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/mulher-triste.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mulher-triste.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/old-man.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/old-man.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/planos.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/pregnant-woman.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/pregnant-woman.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/quote.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/quote.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/referencia.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/referencia.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/simbol.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/simbol.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/soccer-player.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/soccer-player.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/standing-up-man-.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/standing-up-man-.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/stars.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/stars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/vidas.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/vidas.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/classie.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/classie.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/jquery-3.2.1.min.js" afterDir="false" />
@@ -115,20 +115,53 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="14225" column="11" selection-start-line="14225" selection-start-column="11" selection-end-line="14225" selection-end-column="11" />
+            <state relative-caret-position="282">
+              <caret line="11519" column="7" selection-start-line="11519" selection-start-column="7" selection-end-line="11519" selection-end-column="7" />
+              <caret line="11519" column="38" selection-start-line="11519" selection-start-column="38" selection-end-line="11519" selection-end-column="38" />
+              <caret line="12230" column="11" selection-start-line="12230" selection-start-column="11" selection-end-line="12230" selection-end-column="11" />
+              <caret line="12233" column="11" selection-start-line="12233" selection-start-column="11" selection-end-line="12233" selection-end-column="11" />
+              <caret line="12240" column="11" selection-start-line="12240" selection-start-column="11" selection-end-line="12240" selection-end-column="11" />
+              <caret line="12250" column="11" selection-start-line="12250" selection-start-column="11" selection-end-line="12250" selection-end-column="11" />
+              <caret line="12258" column="11" selection-start-line="12258" selection-start-column="11" selection-end-line="12258" selection-end-column="11" />
+              <caret line="12276" column="7" selection-start-line="12276" selection-start-column="7" selection-end-line="12276" selection-end-column="7" />
+              <caret line="12284" column="7" selection-start-line="12284" selection-start-column="7" selection-end-line="12284" selection-end-column="7" />
+              <caret line="12294" column="7" selection-start-line="12294" selection-start-column="7" selection-end-line="12294" selection-end-column="7" />
+              <caret line="12306" column="7" selection-start-line="12306" selection-start-column="7" selection-end-line="12306" selection-end-column="7" />
+              <caret line="12311" column="7" selection-start-line="12311" selection-start-column="7" selection-end-line="12311" selection-end-column="7" />
+              <caret line="12319" column="7" selection-start-line="12319" selection-start-column="7" selection-end-line="12319" selection-end-column="7" />
+              <caret line="12323" column="11" selection-start-line="12323" selection-start-column="11" selection-end-line="12323" selection-end-column="11" />
+              <caret line="12329" column="11" selection-start-line="12329" selection-start-column="11" selection-end-line="12329" selection-end-column="11" />
+              <caret line="12335" column="11" selection-start-line="12335" selection-start-column="11" selection-end-line="12335" selection-end-column="11" />
+              <caret line="12346" column="15" selection-start-line="12346" selection-start-column="15" selection-end-line="12346" selection-end-column="15" />
+              <caret line="12356" column="7" selection-start-line="12356" selection-start-column="7" selection-end-line="12356" selection-end-column="7" />
+              <caret line="12364" column="7" selection-start-line="12364" selection-start-column="7" selection-end-line="12364" selection-end-column="7" />
+              <caret line="12369" column="7" selection-start-line="12369" selection-start-column="7" selection-end-line="12369" selection-end-column="7" />
+              <caret line="12373" column="7" selection-start-line="12373" selection-start-column="7" selection-end-line="12373" selection-end-column="7" />
+              <caret line="12382" column="7" selection-start-line="12382" selection-start-column="7" selection-end-line="12382" selection-end-column="7" />
+              <caret line="12709" column="11" selection-start-line="12709" selection-start-column="11" selection-end-line="12709" selection-end-column="11" />
+              <caret line="12766" column="11" selection-start-line="12766" selection-start-column="11" selection-end-line="12766" selection-end-column="11" />
+              <caret line="12770" column="11" selection-start-line="12770" selection-start-column="11" selection-end-line="12770" selection-end-column="11" />
+              <caret line="12774" column="11" selection-start-line="12774" selection-start-column="11" selection-end-line="12774" selection-end-column="11" />
+              <caret line="12778" column="11" selection-start-line="12778" selection-start-column="11" selection-end-line="12778" selection-end-column="11" />
+              <caret line="13811" column="7" selection-start-line="13811" selection-start-column="7" selection-end-line="13811" selection-end-column="7" />
+              <caret line="13899" column="11" selection-start-line="13899" selection-start-column="11" selection-end-line="13899" selection-end-column="11" />
+              <caret line="14145" column="19" selection-start-line="14145" selection-start-column="19" selection-end-line="14145" selection-end-column="19" />
+              <caret line="14149" column="19" selection-start-line="14149" selection-start-column="19" selection-end-line="14149" selection-end-column="19" />
+              <caret line="14152" column="19" selection-start-line="14152" selection-start-column="19" selection-end-line="14152" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/depressao-tem-cura.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="483" column="67" lean-forward="true" selection-start-line="483" selection-start-column="67" selection-end-line="483" selection-end-column="67" />
+            <state relative-caret-position="132">
+              <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
+              <caret line="210" column="19" selection-start-line="210" selection-start-column="19" selection-end-line="210" selection-end-column="19" />
+              <caret line="602" column="14" selection-start-line="602" selection-start-column="14" selection-end-line="602" selection-end-column="14" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -138,7 +171,6 @@
                 <element signature="n#style#0;n#img#1;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -149,16 +181,11 @@
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#src#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,11 +208,6 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/img/Depoimento.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/8anos.svg">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
@@ -216,26 +238,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>overlay</find>
-      <find>#hero-area</find>
-      <find>.navbar-expand-lg .navbar-nav .nav-link</find>
-      <find>#87B316</find>
-      <find>#87b317</find>
-      <find>lgo-ce</find>
-      <find>bene</find>
-      <find>alt</find>
-      <find>.navbar-brand</find>
-      <find>.navbar-brand-alt</find>
-      <find>.hero-area-bg</find>
-      <find>bg</find>
-      <find>100vh</find>
-      <find>hero-area-bg</find>
-      <find>hero-area</find>
-      <find>gal</find>
-      <find>gale</find>
-      <find>#depoimento .profile-wrapper</find>
-      <find>#beneficios</find>
-      <find>#hero-area .contents</find>
       <find>.header-button</find>
       <find>#ed9d04</find>
       <find>services</find>
@@ -246,6 +248,26 @@
       <find>sin</find>
       <find>problemas</find>
       <find>ajuda</find>
+      <find>list</find>
+      <find>list-style</find>
+      <find>.section-title</find>
+      <find>#header-wrap</find>
+      <find>#depoimento</find>
+      <find>.section-padding</find>
+      <find>.sintomas-item .sintomas-content h3</find>
+      <find>h1, h2, h3, h4</find>
+      <find>p {</find>
+      <find>#sobre .profile-wrapper p</find>
+      <find>profi</find>
+      <find>quote</find>
+      <find>star</find>
+      <find>#sintomas</find>
+      <find>#depoimentos</find>
+      <find>sintomas</find>
+      <find>trata</find>
+      <find>.footer-area .footer-text p</find>
+      <find>.sintomas</find>
+      <find>hero-area</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -281,8 +303,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/vida-melhor.html" />
         <option value="$PROJECT_DIR$/ansiedade-tem-cura.html" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/depressao-tem-cura.html" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
@@ -439,18 +461,18 @@
       <workItem from="1551441017549" duration="31412000" />
       <workItem from="1551615031226" duration="1070000" />
       <workItem from="1551903986179" duration="1578000" />
-      <workItem from="1551955759559" duration="22537000" />
+      <workItem from="1551955759559" duration="29125000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="205800000" />
+    <option name="totallyTimeSpent" value="212388000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.203125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.203125" />
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -462,7 +484,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32998884" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.36410257" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.36410257" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="RNConsole" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -635,13 +657,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="807">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sitemap.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -721,17 +736,19 @@
     <entry file="file://$PROJECT_DIR$/assets/img/d-pos-parto.svg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+    <entry file="file://$PROJECT_DIR$/assets/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="14225" column="11" selection-start-line="14225" selection-start-column="11" selection-end-line="14225" selection-end-column="11" />
+        <state relative-caret-position="495">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/depressao-tem-cura.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="483" column="67" lean-forward="true" selection-start-line="483" selection-start-column="67" selection-end-line="483" selection-end-column="67" />
+        <state relative-caret-position="132">
+          <caret line="139" column="57" selection-start-line="139" selection-start-column="57" selection-end-line="139" selection-end-column="57" />
+          <caret line="210" column="19" selection-start-line="210" selection-start-column="19" selection-end-line="210" selection-end-column="19" />
+          <caret line="602" column="14" selection-start-line="602" selection-start-column="14" selection-end-line="602" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -741,7 +758,6 @@
             <element signature="n#style#0;n#img#1;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#1;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -752,17 +768,50 @@
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="11519" column="7" selection-start-line="11519" selection-start-column="7" selection-end-line="11519" selection-end-column="7" />
+          <caret line="11519" column="38" selection-start-line="11519" selection-start-column="38" selection-end-line="11519" selection-end-column="38" />
+          <caret line="12230" column="11" selection-start-line="12230" selection-start-column="11" selection-end-line="12230" selection-end-column="11" />
+          <caret line="12233" column="11" selection-start-line="12233" selection-start-column="11" selection-end-line="12233" selection-end-column="11" />
+          <caret line="12240" column="11" selection-start-line="12240" selection-start-column="11" selection-end-line="12240" selection-end-column="11" />
+          <caret line="12250" column="11" selection-start-line="12250" selection-start-column="11" selection-end-line="12250" selection-end-column="11" />
+          <caret line="12258" column="11" selection-start-line="12258" selection-start-column="11" selection-end-line="12258" selection-end-column="11" />
+          <caret line="12276" column="7" selection-start-line="12276" selection-start-column="7" selection-end-line="12276" selection-end-column="7" />
+          <caret line="12284" column="7" selection-start-line="12284" selection-start-column="7" selection-end-line="12284" selection-end-column="7" />
+          <caret line="12294" column="7" selection-start-line="12294" selection-start-column="7" selection-end-line="12294" selection-end-column="7" />
+          <caret line="12306" column="7" selection-start-line="12306" selection-start-column="7" selection-end-line="12306" selection-end-column="7" />
+          <caret line="12311" column="7" selection-start-line="12311" selection-start-column="7" selection-end-line="12311" selection-end-column="7" />
+          <caret line="12319" column="7" selection-start-line="12319" selection-start-column="7" selection-end-line="12319" selection-end-column="7" />
+          <caret line="12323" column="11" selection-start-line="12323" selection-start-column="11" selection-end-line="12323" selection-end-column="11" />
+          <caret line="12329" column="11" selection-start-line="12329" selection-start-column="11" selection-end-line="12329" selection-end-column="11" />
+          <caret line="12335" column="11" selection-start-line="12335" selection-start-column="11" selection-end-line="12335" selection-end-column="11" />
+          <caret line="12346" column="15" selection-start-line="12346" selection-start-column="15" selection-end-line="12346" selection-end-column="15" />
+          <caret line="12356" column="7" selection-start-line="12356" selection-start-column="7" selection-end-line="12356" selection-end-column="7" />
+          <caret line="12364" column="7" selection-start-line="12364" selection-start-column="7" selection-end-line="12364" selection-end-column="7" />
+          <caret line="12369" column="7" selection-start-line="12369" selection-start-column="7" selection-end-line="12369" selection-end-column="7" />
+          <caret line="12373" column="7" selection-start-line="12373" selection-start-column="7" selection-end-line="12373" selection-end-column="7" />
+          <caret line="12382" column="7" selection-start-line="12382" selection-start-column="7" selection-end-line="12382" selection-end-column="7" />
+          <caret line="12709" column="11" selection-start-line="12709" selection-start-column="11" selection-end-line="12709" selection-end-column="11" />
+          <caret line="12766" column="11" selection-start-line="12766" selection-start-column="11" selection-end-line="12766" selection-end-column="11" />
+          <caret line="12770" column="11" selection-start-line="12770" selection-start-column="11" selection-end-line="12770" selection-end-column="11" />
+          <caret line="12774" column="11" selection-start-line="12774" selection-start-column="11" selection-end-line="12774" selection-end-column="11" />
+          <caret line="12778" column="11" selection-start-line="12778" selection-start-column="11" selection-end-line="12778" selection-end-column="11" />
+          <caret line="13811" column="7" selection-start-line="13811" selection-start-column="7" selection-end-line="13811" selection-end-column="7" />
+          <caret line="13899" column="11" selection-start-line="13899" selection-start-column="11" selection-end-line="13899" selection-end-column="11" />
+          <caret line="14145" column="19" selection-start-line="14145" selection-start-column="19" selection-end-line="14145" selection-end-column="19" />
+          <caret line="14149" column="19" selection-start-line="14149" selection-start-column="19" selection-end-line="14149" selection-end-column="19" />
+          <caret line="14152" column="19" selection-start-line="14152" selection-start-column="19" selection-end-line="14152" selection-end-column="19" />
         </state>
       </provider>
     </entry>

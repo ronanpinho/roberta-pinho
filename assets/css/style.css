@@ -11517,7 +11517,7 @@ a.text-dark:focus, a.text-dark:hover {
     animation-name: rollOut
 }
 
-#hero-area .contents .head-title, #hero-area .contents h5 {
+#inicio .contents .head-title, #inicio .contents h5 {
     color: #FFF !important
 }
 
@@ -11531,13 +11531,13 @@ ol, p, ul {
 
 body {
     background: #FFF;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: 400;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     -webkit-font-smoothing: subpixel-antialiased;
-    color: #666;
+    color: #000;
     line-height: 25px;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden
@@ -11548,9 +11548,9 @@ h1, h2, h3, h4 {
     font-weight: 700
 }
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
     h1, h2, h3, h4 {
-        font-size: 20px;
+        font-size: 26px;
         font-weight: 700
     }
 }
@@ -11565,7 +11565,7 @@ a a:focus {
 
 p {
     font-weight: 400;
-    font-size: 14px
+    font-size: 16px
 }
 
 ol, ul {
@@ -11797,7 +11797,7 @@ a.back-to-top i {
 }
 
 .section-padding {
-    padding: 60px 0
+    padding: 60px 30px
 }
 
 #about .img-thumb img {
@@ -11872,7 +11872,7 @@ a.back-to-top i {
     bottom: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, .4)
+    background: rgba(0, 0, 0, .0)
 }
 
 .dropdown-menu:before, .timeline li:before {
@@ -12228,17 +12228,17 @@ a.back-to-top i {
 }
 
 @media (max-width: 767px) {
-    #hero-area .script-font {
+    #inicio .script-font {
         width: calc(100% - 50px);
     }
-    .hero-area-bg {
+    .inicio-bg {
         background: url(../img/imagem-topo-mobile.jpg) no-repeat;
         background-size: cover;
         background-position: center;
         height: 86vh;
     }
 
-    .hero-area-bg-delivery {
+    .inicio-bg-delivery {
         width: 100%;
         display: flex;
         align-items: center;
@@ -12248,7 +12248,7 @@ a.back-to-top i {
 }
 
 @media (min-width: 768px) {
-    .hero-area-bg {
+    .inicio-bg {
         background: url(../img/imagem-topo.jpg) no-repeat;
         background-size: cover;
         top: 0;
@@ -12256,7 +12256,7 @@ a.back-to-top i {
         height: 100vh;
     }
 
-    .hero-area-bg-delivery {
+    .inicio-bg-delivery {
         width: 100%;
         display: flex;
         align-items: center;
@@ -12272,13 +12272,9 @@ a.back-to-top i {
     }
 }
 
-@media (max-width: 767px) {
-    #header-wrap {
-        height: 86vh;
-    }
-}
 
-#hero-area {
+
+#inicio {
     color: #FFF;
     overflow: hidden;
     position: relative;
@@ -12286,7 +12282,7 @@ a.back-to-top i {
     align-items: center;
 }
 
-#hero-area .overlay {
+#inicio .overlay {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -12296,7 +12292,7 @@ a.back-to-top i {
     opacity: .4
 }
 
-#hero-area .contents {
+#inicio .contents {
     padding: 0 100px 0 100px;
     position: absolute;
     top: 50%;
@@ -12308,12 +12304,12 @@ a.back-to-top i {
 
 }
 
-#hero-area .container {
+#inicio .container {
     position: absolute;
     top:50%;
 }
 
-#hero-area .slick-slide {
+#inicio .slick-slide {
     display: flex;
     justify-items: center;
     align-content: center;
@@ -12321,23 +12317,23 @@ a.back-to-top i {
     justify-content: center;
 }
 
-#hero-area .contents h5 {
+#inicio .contents h5 {
     font-size: 50px
 }
 @media (min-width: 768px) {
-    #hero-area section .image-mobile {
+    #inicio section .image-mobile {
         display: none;
     }
 }
 
 @media (max-width: 767px) {
-    #hero-area section .image-desk {
+    #inicio section .image-desk {
         display: none;
     }
 }
 
 @media (min-width: 1000px) {
-    #hero-area .contents .head-title {
+    #inicio .contents .head-title {
         font-size: 81px;
         letter-spacing: -3px;
         text-transform: uppercase;
@@ -12348,7 +12344,7 @@ a.back-to-top i {
 
 
     @media (max-width: 767px) {
-        #hero-area .contents .head-title {
+        #inicio .contents .head-title {
             font-size: 40px;
             letter-spacing: 0px;
             text-transform: uppercase;
@@ -12358,7 +12354,7 @@ a.back-to-top i {
     }
 
 
-#hero-area .contents p {
+#inicio .contents p {
     font-size: 30px;
     color: #FFF;
     font-weight: 400;
@@ -12366,16 +12362,16 @@ a.back-to-top i {
     margin-bottom: 25px
 }
 
-#hero-area .contents .btn {
+#inicio .contents .btn {
     margin: 25px 0;
     text-transform: uppercase
 }
 
-#hero-area .banner_bottom_btn {
+#inicio .banner_bottom_btn {
     margin-top: 40px
 }
 
-#hero-area .banner_bottom_btn i {
+#inicio .banner_bottom_btn i {
     color: #FFF;
     font-size: 48px;
     -webkit-transition: all .2s linear;
@@ -12384,7 +12380,7 @@ a.back-to-top i {
     transition: all .2s linear
 }
 
-#hero-area .banner_bottom_btn i:hover {
+#inicio .banner_bottom_btn i:hover {
     color: #DDD
 }
 
@@ -12644,7 +12640,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 
 .footer-area .footer-text p {
     font-size: 14px;
-    margin-top: 20px;
+    margin-top: 0px;
     color: #FFF
 }
 
@@ -12711,7 +12707,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 }
 
 @media (min-width: 768px) and (max-width: 999px) {
-    #hero-area .contents .head-title {
+    #inicio .contents .head-title {
         font-size: 40px
     }
 
@@ -12756,7 +12752,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 
 @media (max-width: 767px) {
     .section-title {
-        font-size: 22px;
+        font-size: 30px;
         margin-bottom: 30px
     }
 
@@ -12768,19 +12764,19 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
         margin: 5px 0
     }
 
-    #hero-area .contents {
+    #inicio .contents {
         padding: 100px 0 60px
     }
 
-    #hero-area .contents .head-title {
+    #inicio .contents .head-title {
         font-size: 22px
     }
 
-    #hero-area .contents h5 {
+    #inicio .contents h5 {
         font-size: 32px
     }
 
-    #hero-area .contents p {
+    #inicio .contents p {
         font-size: 20px
     }
 
@@ -12849,7 +12845,6 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 .contato-block {
     padding-left: 15px;
     padding-right: 15px;
-    margin-bottom: 150px
 }
 
 @font-face {
@@ -13814,7 +13809,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
     color: #FF8500
 }
 
-.hero-area-bg-delivery .container {
+.inicio-bg-delivery .container {
     position: absolute
 }
 
@@ -13902,7 +13897,7 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
     }
 
 
-    #hero-area .contents p {
+    #inicio .contents p {
         font-size: 30px;
         color: #FFF;
         font-weight: 400;
@@ -13968,23 +13963,24 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
 
 #tipos .services-content p {
     min-height: 140px;
+    text-align: justify;
 }
 
 #tipos .icon img {
     width: 60px;
     height: 60px;
 }
-#depoimento .profile-wrapper p {
-    font-size: 15px;
-    color: #232323;
-    margin-bottom: 20px;
+#sobre .profile-wrapper p {
+    font-size: 17px;
+    color: #000;
+    text-align: justify;
 }
 
-#depoimento {
+#sobre {
     background: #f5f5f5;
 }
 
-#depoimento .profile-wrapper span:before {
+#sobre .profile-wrapper span:before {
     content: '';
     background-image: url("../img/quote.png");
     width: 30px;
@@ -14118,7 +14114,7 @@ table caption {
     width: 100%;
 }
 
-#depoimento img {
+#sobre img {
     display: table;
     margin: 0 auto;
 }
@@ -14147,14 +14143,14 @@ table caption {
     position: relative;
 }
 
-.other-page #hero-area .contents {
+.other-page #inicio .contents {
     padding: 0;
 }
 
-.other-page #hero-area video {
+.other-page #inicio video {
     width: 100%;
 }
-.other-page #hero-area {
+.other-page #inicio {
     height: auto!important;
 }
 
@@ -14201,10 +14197,20 @@ table caption {
 .sintomas-item .sintomas-content h3 {
     margin-top: 4px;
     margin-bottom: 10px;
-    font-size: 20px;
+    font-size: 28px;
+    text-align: left;
 
 }
 
+@media (max-width: 767px) {
+    .sintomas-item .sintomas-content h3 {
+        margin-top: 4px;
+        margin-bottom: 10px;
+        font-size: 25px;
+        text-align: center;
+
+    }
+}
 .sintomas-item .sintomas-content h3 a {
     font-size: 15px;
     text-transform: capitalize;
@@ -14218,25 +14224,35 @@ table caption {
 .sintomas-item .sintomas-content p {
     line-height: 22px
 }
-
-.sintomas {
-    padding: 60px 0 0;
+@media (min-width: 768px) {
+    .sintomas {
+        padding: 60px 30px 0px 30px;
+    }
+}
+@media (max-width: 768px) {
+    .sintomas {
+        padding: 60px 30px 60px 30px;
+    }
 }
 
+
 #tratamento ul li {
-    list-style-type: decimal;
-    color: #666;
+    list-style-type: disc;
+    color: #000;
+    font-size: 16px;
+    text-align: justify;
 }
 
 #depoimentos {
-    padding-right: 10px;
-    padding-left: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
     position: relative;
 }
 #depoimentos img {
     width: 85px;
     display: table;
     margin: 0 auto;
+    margin-bottom: 10px;
 }
 #depoimentos div {
     margin-top: 30px;
@@ -14255,7 +14271,7 @@ table caption {
 }
 
 #depoimentos p {
-    text-align: center;
+    text-align: justify;
 }
 
 #depoimentos p:before {
@@ -14267,4 +14283,71 @@ table caption {
     position: absolute;
     top: -5px;
     left: -4px;
+}
+
+#tratamento .profile-wrapper {
+    padding: 60px 0px;
+}
+@media (min-width: 768px) {
+    .woman {
+        width: 100%;
+        display: table;
+        position: relative;
+    }
+    #tratamento .profile-wrapper {
+        padding: 60px 15px;
+    }
+}
+
+@media (max-width: 768px) {
+    .woman {
+        width: 70%;
+        display: table;
+        position: relative;
+        margin: 0 auto;
+    }
+    .section-padding {
+        padding: 40px 30px;
+    }
+    .container, .container-fluid {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+#sobre {
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#tratamento p {
+    text-align: justify;
+}
+
+.footer-right-area .profile-wrapper {
+    padding-top: 0;
+}
+
+.footer-right-area .profile-wrapper p:before {
+    content: '';
+    background-image: url("../img/quote.png");
+    width: 20px;
+    height: 20px;
+    background-size: contain;
+    position: absolute;
+    top: 8px;
+    left: -14px;
+}
+
+.footer-right-area .profile-wrapper p {
+    text-align: justify;
+}
+
+.footer-right-area .profile-wrapper img {
+    display: table;
+    margin: 0 auto 10px;
+}
+
+.youtube:hover {
+    background: red;
 }
