@@ -12231,6 +12231,9 @@ a.back-to-top i {
 }
 
 @media (max-width: 767px) {
+    #hero-area .script-font {
+        width: calc(100% - 50px);
+    }
     .hero-area-bg {
         background: url(../img/imagem-topo-mobile.jpg) no-repeat;
         background-size: cover;
@@ -12264,6 +12267,7 @@ a.back-to-top i {
         align-content: center
     }
 
+
 }
 @media (min-width: 768px) {
     #header-wrap {
@@ -12296,11 +12300,43 @@ a.back-to-top i {
 }
 
 #hero-area .contents {
-    padding: 175px 0 120px
+    padding: 0 100px 0 100px;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+#hero-area .container {
+    position: absolute;
+    top:50%;
+}
+
+#hero-area .slick-slide {
+    display: flex;
+    justify-items: center;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
 }
 
 #hero-area .contents h5 {
     font-size: 50px
+}
+@media (min-width: 768px) {
+    #hero-area section .image-mobile {
+        display: none;
+    }
+}
+
+@media (max-width: 767px) {
+    #hero-area section .image-desk {
+        display: none;
+    }
 }
 
 @media (min-width: 1000px) {
@@ -13833,11 +13869,11 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
     line-height: 40px !important
 }
 
-#beneficios {
+#problemas {
     margin-top: 0%;
 }
 
-.other-page #beneficios {
+.other-page #problemas {
     margin-top: 0%;
 }
 .navbar-brand-alt {
@@ -13894,27 +13930,29 @@ a:not([href]):not([tabindex]), a:not([href]):not([tabindex]):focus, a:not([href]
     font-size: 20px!important;
 }
 .header-button {
-    display: block;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
 .arrow {
     width: 60px;
     height: 60px;
 
 }
-#beneficios .services-content h3 {
+#problemas .services-content h3 {
     margin-top: 10px;
     font-size: 18px;
     line-height: 20px;
     min-height: 41px;
 }
-#beneficios .services-content {
+#problemas .services-content {
 
 }
-#beneficios .services-content p {
+#problemas .services-content p {
    min-height: 120px;
 }
 
-#beneficios .icon img {
+#problemas .icon img {
     width: 60px;
     height: 60px;
 }
@@ -14104,7 +14142,11 @@ table caption {
 #planos {
     background: #dbdbdb!important;
 }
-.other-page #beneficios {
+.other-page #problemas {
+    position: relative;
+}
+
+#problemas {
     position: relative;
 }
 
