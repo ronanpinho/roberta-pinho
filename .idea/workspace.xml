@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -106,11 +105,7 @@
       <change beforePath="$PROJECT_DIR$/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/video.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/waypoints.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/wow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/about.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/animate.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/nivo-lightbox.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/css/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/slicknav.css" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/css/slicknav.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/css/style.css" afterDir="false" />
@@ -203,6 +198,7 @@
       <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/wow.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/depressao-tem-cura/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/depressao-tem-cura/obrigado.html" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/obrigado.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -228,8 +224,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/depressao-tem-cura/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="515" column="34" selection-start-line="515" selection-start-column="34" selection-end-line="515" selection-end-column="34" />
+            <state relative-caret-position="304">
+              <caret line="552" column="32" lean-forward="true" selection-start-line="552" selection-start-column="32" selection-end-line="552" selection-end-column="32" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -550,18 +546,18 @@
       <workItem from="1551615031226" duration="1070000" />
       <workItem from="1551903986179" duration="1578000" />
       <workItem from="1551955759559" duration="30264000" />
-      <workItem from="1552006046867" duration="6774000" />
+      <workItem from="1552006046867" duration="7434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220301000" />
+    <option name="totallyTimeSpent" value="220961000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.203125" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.203125" />
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -858,8 +854,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/depressao-tem-cura/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="515" column="34" selection-start-line="515" selection-start-column="34" selection-end-line="515" selection-end-column="34" />
+        <state relative-caret-position="304">
+          <caret line="552" column="32" lean-forward="true" selection-start-line="552" selection-start-column="32" selection-end-line="552" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
