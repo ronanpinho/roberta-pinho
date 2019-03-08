@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e19a195-7f09-4e94-a17c-077b27c7639c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/verified.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/depressao-tem-cura/obrigado.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -75,6 +74,7 @@
       <change beforePath="$PROJECT_DIR$/assets/img/m3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/m3.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/m4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/m4.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/materia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/materia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/mobile-obrigado.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mobile-obrigado.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mobile.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/mulher-triste.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/mulher-triste.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/old-man.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/old-man.svg" afterDir="false" />
@@ -85,6 +85,7 @@
       <change beforePath="$PROJECT_DIR$/assets/img/soccer-player.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/soccer-player.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/standing-up-man-.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/standing-up-man-.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/stars.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/stars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/verified.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/verified.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/img/vidas.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/vidas.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/classie.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/classie.js" afterDir="false" />
@@ -105,7 +106,103 @@
       <change beforePath="$PROJECT_DIR$/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/video.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/waypoints.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/wow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/depressao-tem-cura.html" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/about.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/animate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/nivo-lightbox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/slicknav.css" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/css/slicknav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/butler-bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/butler-bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/simple-line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/fonts/simple-line-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/8anos.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/8anos.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/Depoimento.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/Depoimento.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/Facebook-og.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/Facebook-og.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/Roberta-Pinho.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/Roberta-Pinho.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/autoridade.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/autoridade.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/b01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/b01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/b02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/b02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/b03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/b03.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/b04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/b04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/d-bipolar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/d-bipolar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/d-pos-parto.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/d-pos-parto.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/d-transtorno.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/d-transtorno.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/girl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/girl.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/horas-c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/horas-c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/entrega.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/entrega.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/ex.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/i01.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/i01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/i02.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/i02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/i03.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/i03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/numero-um.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/numero-um.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/referencia-qualidade.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/icones/referencia-qualidade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/imagem-topo-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/imagem-topo-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/imagem-topo-mobile-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/imagem-topo-mobile-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/imagem-topo-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/imagem-topo-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/imagem-topo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/imagem-topo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/img-capa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/img-capa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/kids-couple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/kids-couple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/lgo-m.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/lgo-m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/lgo-w.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/lgo-w.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/m1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/m1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/m2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/m2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/m3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/m3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/m4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/m4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/materia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/materia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/mobile-obrigado.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/mobile-obrigado.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/mulher-triste.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/mulher-triste.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/old-man.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/old-man.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/pregnant-woman.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/pregnant-woman.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/quote.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/quote.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/referencia.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/referencia.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/simbol.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/simbol.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/soccer-player.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/soccer-player.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/standing-up-man-.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/standing-up-man-.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/stars.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/stars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/verified.png" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/verified.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/img/vidas.svg" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/img/vidas.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/classie.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/classie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery.counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery.counterup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery.easing.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery.mixitup.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery.mixitup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery.nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery.nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery.slicknav.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/jquery.slicknav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/modernizr.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/modernizr.custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/nivo-lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/nivo-lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/nivo-lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/nivo-lightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/scrolling-nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/scrolling-nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/assets/js/wow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/depressao-tem-cura/obrigado.html" beforeDir="false" afterPath="$PROJECT_DIR$/depressao-tem-cura/obrigado.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -122,7 +219,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
+            <state relative-caret-position="-4">
               <caret line="14475" column="41" selection-start-line="14475" selection-start-column="41" selection-end-line="14475" selection-end-column="41" />
             </state>
           </provider>
@@ -131,8 +228,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/depressao-tem-cura/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="410" column="54" lean-forward="true" selection-start-line="410" selection-start-column="54" selection-end-line="410" selection-end-column="54" />
+            <state relative-caret-position="342">
+              <caret line="515" column="34" selection-start-line="515" selection-start-column="34" selection-end-line="515" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -142,6 +239,11 @@
                 <element signature="n#style#0;n#img#1;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -150,11 +252,16 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#object#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -163,10 +270,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/depressao-tem-cura/obrigado.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+            <state relative-caret-position="216">
+              <caret line="246" column="93" lean-forward="true" selection-start-line="246" selection-start-column="93" selection-end-line="246" selection-end-column="93" />
               <folding>
                 <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#1;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,7 +307,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>h1</find>
       <find>recomendacao</find>
       <find>#hero-area .contents .head-title</find>
       <find>depoimentos</find>
@@ -212,8 +334,9 @@
       <find>.sintomas</find>
       <find>hero-area</find>
       <find>li</find>
-      <find>header-wrap</find>
       <find>mar</find>
+      <find>header-wrap</find>
+      <find>espaço</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -243,9 +366,7 @@
         <option value="$PROJECT_DIR$/pilates.html" />
         <option value="$PROJECT_DIR$/assets/img/b03.svg" />
         <option value="$PROJECT_DIR$/assets/img/b01.svg" />
-        <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/CNAME" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/vida-melhor.html" />
         <option value="$PROJECT_DIR$/ansiedade-tem-cura.html" />
         <option value="$PROJECT_DIR$/assets/js/scripts.js" />
@@ -255,6 +376,11 @@
         <option value="$PROJECT_DIR$/assets/depressao-tem-cura/depressao-tem-cura-obrigado.html" />
         <option value="$PROJECT_DIR$/assets/depressao-tem-cura/obrigado.html" />
         <option value="$PROJECT_DIR$/assets/depressao-tem-cura/index.html" />
+        <option value="$PROJECT_DIR$/depressao-tem-cura/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/depressao-tem-cura/obrigado.html" />
+        <option value="$PROJECT_DIR$/assets/index.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sitemap.xml" />
         <option value="$PROJECT_DIR$/depressao-tem-cura/index.html" />
       </list>
     </option>
@@ -294,6 +420,13 @@
               <item name="depressao-tem-cura" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
+              <item name="roberta-pinho" type="462c0819:PsiDirectoryNode" />
+              <item name="depressao-tem-cura" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -310,11 +443,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\laragon\www\roberta-pinho\assets" />
       <recent name="F:\laragon\www\roberta-pinho\depressao-tem-cura" />
       <recent name="F:\laragon\www\roberta-pinho" />
       <recent name="F:\laragon\www\roberta-pinho\assets\img" />
       <recent name="F:\laragon\www\pilates\assets\img" />
-      <recent name="F:\laragon\www\pilates\assets\video" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\laragon\www\roberta-pinho" />
@@ -335,8 +468,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/roberta-pinho/depressao-tem-cura/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/roberta-pinho/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/marcele-pilates/index.html" useBuiltInWebServerPort="true">
@@ -353,11 +489,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.depressao-tem-cura-obrigado.html" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.vida-melhor.html" />
       </list>
     </recent_temporary>
   </component>
@@ -414,12 +550,12 @@
       <workItem from="1551615031226" duration="1070000" />
       <workItem from="1551903986179" duration="1578000" />
       <workItem from="1551955759559" duration="30264000" />
-      <workItem from="1552006046867" duration="3385000" />
+      <workItem from="1552006046867" duration="6774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="216912000" />
+    <option name="totallyTimeSpent" value="220301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -429,7 +565,7 @@
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32991454" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -469,14 +605,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/js/wow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="27" selection-end-line="184" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/capa-p.jpg" />
     <entry file="file://$PROJECT_DIR$/assets/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
@@ -584,13 +712,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sitemap.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ansiedade-tem-cura.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
@@ -673,23 +794,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="14475" column="41" selection-start-line="14475" selection-start-column="41" selection-end-line="14475" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/depressao-tem-cura/obrigado.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/depressao-tem-cura/assets/js/wow.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -697,10 +801,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/depressao-tem-cura/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="227362" selection-start-column="227362" selection-end-column="227362" />
+          <folding>
+            <element signature="e#61094#61294#2" expanded="true" />
+            <element signature="e#61394#61543#2" expanded="true" />
+            <element signature="e#62009#62155#2" expanded="true" />
+            <element signature="e#62419#62585#1" expanded="true" />
+            <element signature="e#72656#72896#2" expanded="true" />
+            <element signature="e#73731#73977#2" expanded="true" />
+            <element signature="e#98192#98382#2" expanded="true" />
+            <element signature="e#98428#98618#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="14475" column="41" selection-start-line="14475" selection-start-column="41" selection-end-line="14475" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depressao-tem-cura/obrigado.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="246" column="93" lean-forward="true" selection-start-line="246" selection-start-column="93" selection-end-line="246" selection-end-column="93" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sitemap.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#1;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/depressao-tem-cura/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="410" column="54" lean-forward="true" selection-start-line="410" selection-start-column="54" selection-end-line="410" selection-end-column="54" />
+        <state relative-caret-position="342">
+          <caret line="515" column="34" selection-start-line="515" selection-start-column="34" selection-end-line="515" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -710,6 +869,11 @@
             <element signature="n#style#0;n#img#1;n#section#1;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -718,11 +882,16 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#5;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#div#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#object#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
