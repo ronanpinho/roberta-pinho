@@ -9,7 +9,99 @@
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura.html" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/css/responsive.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/css/slicknav.css" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/css/slicknav.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/FontAwesome.otf" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/FontAwesome.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/butler-bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/butler-bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/fontawesome-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/fontawesome-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/fontawesome-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.eot" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.woff" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/line-icons/Simple-Line-Icons.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/simple-line-icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/fonts/simple-line-icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/8anos.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/8anos.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/Depoimento.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/Depoimento.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/Facebook-og.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/Facebook-og.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/Roberta-Pinho.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/Roberta-Pinho.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/autoridade.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/autoridade.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/b01.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/b01.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/b02.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/b02.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/b03.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/b03.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/b04.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/b04.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/d-bipolar.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/d-bipolar.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/d-pos-parto.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/d-pos-parto.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/d-transtorno.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/d-transtorno.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/girl.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/girl.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/horas-c.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/horas-c.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/entrega.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/entrega.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/ex.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/ex.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/i01.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/i01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/i02.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/i02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/i03.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/i03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/numero-um.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/numero-um.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/referencia-qualidade.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/icones/referencia-qualidade.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/imagem-topo-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/imagem-topo-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/imagem-topo-mobile-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/imagem-topo-mobile-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/imagem-topo-mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/imagem-topo-mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/imagem-topo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/imagem-topo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/img-capa.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/img-capa.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/kids-couple.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/kids-couple.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/lgo-m.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/lgo-m.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/lgo-w.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/lgo-w.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/m1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/m1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/m2.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/m2.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/m3.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/m3.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/m4.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/m4.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/materia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/materia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/mobile-obrigado.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/mobile-obrigado.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/mobile.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/mobile.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/mulher-triste.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/mulher-triste.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/old-man.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/old-man.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/pregnant-woman.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/pregnant-woman.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/quote.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/quote.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/referencia.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/referencia.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/simbol.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/simbol.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/soccer-player.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/soccer-player.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/standing-up-man-.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/standing-up-man-.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/stars.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/stars.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/verified.png" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/verified.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/vidas.svg" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/img/vidas.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/classie.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/classie.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery-3.2.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery.counterup.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery.counterup.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery.easing.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery.easing.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery.mixitup.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery.mixitup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery.nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery.nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery.slicknav.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/jquery.slicknav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/modernizr.custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/modernizr.custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/nivo-lightbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/nivo-lightbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/nivo-lightbox.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/nivo-lightbox.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/popper.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/popper.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/scrolling-nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/scrolling-nav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/video.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/video.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/waypoints.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/waypoints.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/wow.js" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/assets/js/wow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ansiedade-tem-cura/obrigado.html" beforeDir="false" afterPath="$PROJECT_DIR$/ansiedade-tem-cura/obrigado.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/about.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/animate.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/animate.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
@@ -212,20 +304,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376350">
-              <caret line="14475" column="41" selection-start-line="14475" selection-start-column="41" selection-end-line="14475" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/depressao-tem-cura/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="278">
-              <caret line="551" column="42" selection-start-line="551" selection-start-column="42" selection-end-line="551" selection-end-column="42" />
+            <state relative-caret-position="272">
+              <caret line="264" column="54" selection-start-line="264" selection-start-column="54" selection-end-line="264" selection-end-column="54" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -258,34 +341,6 @@
                 <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#object#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/depressao-tem-cura/obrigado.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="215" column="71" selection-start-line="215" selection-start-column="71" selection-end-line="215" selection-end-column="71" />
-              <folding>
-                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#1;n#section#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -376,13 +431,13 @@
         <option value="$PROJECT_DIR$/assets/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/sitemap.xml" />
-        <option value="$PROJECT_DIR$/depressao-tem-cura/index.html" />
         <option value="$PROJECT_DIR$/depressao-tem-cura/obrigado.html" />
+        <option value="$PROJECT_DIR$/depressao-tem-cura/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1665" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
@@ -404,25 +459,7 @@
             <path>
               <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
               <item name="roberta-pinho" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roberta-pinho" type="462c0819:PsiDirectoryNode" />
               <item name="depressao-tem-cura" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roberta-pinho" type="462c0819:PsiDirectoryNode" />
-              <item name="depressao-tem-cura" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="roberta-pinho" type="b2602c69:ProjectViewProjectNode" />
-              <item name="roberta-pinho" type="462c0819:PsiDirectoryNode" />
-              <item name="depressao-tem-cura" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -438,18 +475,18 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\laragon\www\roberta-pinho\assets" />
-      <recent name="F:\laragon\www\roberta-pinho\depressao-tem-cura" />
-      <recent name="F:\laragon\www\roberta-pinho" />
-      <recent name="F:\laragon\www\roberta-pinho\assets\img" />
-      <recent name="F:\laragon\www\pilates\assets\img" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\laragon\www\roberta-pinho" />
       <recent name="F:\laragon\www\roberta-pinho\assets\depressao-tem-cura" />
       <recent name="F:\laragon\www\pilates\assets\img" />
       <recent name="F:\laragon\www\site-professora-nicinha\assets\img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\laragon\www\roberta-pinho" />
+      <recent name="F:\laragon\www\roberta-pinho\assets" />
+      <recent name="F:\laragon\www\roberta-pinho\depressao-tem-cura" />
+      <recent name="F:\laragon\www\roberta-pinho\assets\img" />
+      <recent name="F:\laragon\www\pilates\assets\img" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -547,18 +584,18 @@
       <workItem from="1551903986179" duration="1578000" />
       <workItem from="1551955759559" duration="30264000" />
       <workItem from="1552006046867" duration="7434000" />
-      <workItem from="1552043847177" duration="165000" />
+      <workItem from="1552043847177" duration="3074000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221126000" />
+    <option name="totallyTimeSpent" value="224035000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.203125" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4923077" visible="true" weight="0.14278187" />
       <window_info id="Structure" order="1" sideWeight="0.50769234" side_tool="true" weight="0.2061012" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -602,13 +639,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="1057" column="22" selection-start-line="1057" selection-start-column="22" selection-end-line="1057" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/img/gallery/img-1.jpg" />
     <entry file="file://$PROJECT_DIR$/obrigado-curso.html" />
     <entry file="file://$PROJECT_DIR$/curso.html" />
@@ -822,13 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376350">
-          <caret line="14475" column="41" selection-start-line="14475" selection-start-column="41" selection-end-line="14475" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -843,10 +866,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ansiedade-tem-cura/assets/js/wow.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/depressao-tem-cura/obrigado.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="265" column="23" selection-start-line="265" selection-start-column="23" selection-end-line="265" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="14475" column="41" selection-start-line="14475" selection-start-column="41" selection-end-line="14475" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/depressao-tem-cura/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="278">
-          <caret line="551" column="42" selection-start-line="551" selection-start-column="42" selection-end-line="551" selection-end-column="42" />
+        <state relative-caret-position="272">
+          <caret line="264" column="54" selection-start-line="264" selection-start-column="54" selection-end-line="264" selection-end-column="54" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#noscript#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#noscript#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -879,16 +922,6 @@
             <element signature="n#src#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#object#0;n#div#1;n#div#0;n#div#0;n#div#0;n#section#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/depressao-tem-cura/obrigado.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="215" column="71" selection-start-line="215" selection-start-column="71" selection-end-line="215" selection-end-column="71" />
-          <folding>
-            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
